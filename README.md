@@ -1,4 +1,13 @@
 ### Hi there 👋
+I'm Lenny
+
+:earth_asia: International Relations Analyst
+
+🌱 I’m currently learning Data Science!
+
+:round_pushpin: Western Australia
+
+📫 Reach me at lenny@stewartusher.com
 
 <!--
 **lennystewartusher/lennystewartusher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
